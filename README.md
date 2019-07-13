@@ -1,0 +1,2 @@
+# web_log_preprocessing
+The web applications datasets emulated for the experiment are NASA web log.  The 2 months WWW server log is collected from NASA Kennedy Space Center Florida. The duration of the log is from 1 July, 1995, to 31 July, 1995, and second log is from  1 August, 1995, to 31 August, 1995. The total 3461612 requests recorded in two months. This project is to convert the web log to discrete model. 
